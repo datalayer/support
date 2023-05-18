@@ -2,7 +2,7 @@
 
 # Ξ 🆘 Datalayer Support
 
-This repository is used to create and track feature requests and bug reports for the [Datalayer IO](https://datalayer.io) service.
+This repository is used to create and track feature requests and bug reports for the [Datalayer](https://datalayer.io) online service.
 
 - [Open an issue](https://github.com/datalayer/support/issues/new/choose) if the scope is clear.
 - [Open a discussion](https://github.com/datalayer/support/discussions/new) if you'd like to discuss and get more opinions before opening an issue.
