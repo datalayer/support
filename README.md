@@ -1,6 +1,6 @@
 [![Datalayer](https://assets.datalayer.tech/datalayer-25.svg)](https://datalayer.io)
 
-# Ξ Datalayer Comunity Support
+# Ξ Datalayer Support
 
 This repository is used to create and track feature requests and bug reports for the [Datalayer](https://datalayer.io) online services, curated by the Community.
 
